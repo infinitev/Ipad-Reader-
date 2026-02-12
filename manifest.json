@@ -1,0 +1,26 @@
+{
+  "name": "The Reader",
+  "short_name": "Reader",
+  "description": "A warm, sepia-toned PDF reader that preserves highlights and is easy on the eyes.",
+  "start_url": "./the-reader.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F5EDE0",
+  "theme_color": "#2C2416",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
